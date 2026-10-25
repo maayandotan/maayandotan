@@ -1,6 +1,6 @@
 ### Hi, I'm Maayan 👋
 
-Fourth-year B.Sc. Software Engineering student at Ben-Gurion University (graduating July 2027), based in Israel. I like building things that work reliably under real-world mess: concurrent users, flaky third-party sites, and DRM that blocks the obvious approach.
+Fourth-year B.Sc. Software Engineering student at Ben-Gurion University (graduating March 2028), based in Israel. I like building things that work reliably under real-world mess: concurrent users, flaky third-party sites, and DRM that blocks the obvious approach.
 
 Looking for a **student position in software engineering or backend development**.
 

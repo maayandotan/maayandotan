@@ -6,7 +6,7 @@ Looking for a **student position in software engineering or backend development*
 
 ---
 
-#### ⚽ [Match Intelligence](https://github.com/maayandotan/premier-league-hackathon): Microsoft × Premier League "Inside the Game" hackathon, team of 2
+#### ⚽ [Your Call](https://github.com/maayandotan/premier-league-hackathon): Microsoft × Premier League "Inside the Game" hackathon, team of 2
 Live AI football commentary that adapts to the viewer. Two AI agents, a play-by-play caller and a tactical analyst, call the match at your level and answer voice questions mid-match without pausing it. **[Live demo](https://match-intelligence-live.purplesand-eefdeaf2.francecentral.azurecontainerapps.io)**
 - Every number the agents say (xG, possession, tactical patterns) comes from a stats engine written in code and exposed to them as tools, and each line is fact-checked before it's spoken.
 - An event ranker decides when the commentators talk; a goal cuts in over lower-priority commentary and the broadcast then picks up where it left off.
